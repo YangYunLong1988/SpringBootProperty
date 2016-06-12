@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.bg_label_parent {
+	color: #FFFFFF;
+	background-color: #000000;
+	margin: 2px;
+	padding: 4px;
+	font-size: 12px;
+	font-weight: normal;
+	border-radius: 3px;
+	max-width: 110px;
+	overflow: hidden;
+	float:left;
+}
+
+.tag0 {
+	color: #FFFFFF;
+	background-color: #000000;
+}
+
+.tag1 {
+	color: #CCCCFF;
+	background-color: #8C0044;
+}
+
+.tag2 {
+	color: #0000CC;
+	background-color: #888800;
+}
+
+.tag3 {
+	color: #000000;
+	background-color: #227700;
+}
+
+.tag4 {
+	color: #FF88C2;
+	background-color: #007799;
+}
+
+.tag5 {
+	color: #008800;
+	background-color: #000088;
+}
+
+.tag6 {
+	color: #FFFF00;
+	background-color: #770077;
+}
+
+.tag7 {
+	color: #5F9EA0;
+	background-color: #00FFFF;
+}
+
+.tag8 {
+	color: #008844;
+	background-color: #FFB7DD;
+}
+
+.tag9 {
+	color: #556B2F;
+	background-color: #FFFF00;
+}
+
+.taga {
+	color: #800000;
+	background-color: #CCEEFF;
+}
+
+.tagb {
+	color: #0000FF;
+	background-color: #D28EFF;
+}
+
+.tagc {
+	color: #7B68EE;
+	background-color: #EE82EE;
+}
+
+.tagd {
+	color: #666666;
+	background-color: #DEB887;
+}
+
+.tage {
+	color: #DDA0DD;
+	background-color: #00FF00;
+}
+
+.tagf {
+	color: #8B4513;
+	background-color: #A9A9A9;
+}
